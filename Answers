@@ -1,0 +1,7 @@
+I ran the program > 20 times and I never got the solution in fewer than 20 guesses using the random driver class.
+
+This is a terrible strategy, this is because you are repeating possible correct answers when you randomly change every variable of the guess
+
+I have ran the program > 10 times and I have gotten the solution in fewer than 20 guesses every time using my solution
+
+This strategy is good because it never repeats possible correct answers, it 'solves' each variable of the Theory 1 piece at a time and counts through the variables one at a time.
