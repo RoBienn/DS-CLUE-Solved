@@ -75,7 +75,7 @@ public class RandomClue {
             murder = random.nextInt(6) + 1;  
         	solution = jack.checkAnswer(weapon, location, murder);
         	*/
-        	
+        	//new proposed solution iterates each variable if the checkAnswer method returns the corresponding number (1-3)
             
             solution = jack.checkAnswer(weapon, location, murder);
             
